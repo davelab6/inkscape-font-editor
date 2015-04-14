@@ -1,0 +1,1 @@
+This project is about adding and refining the SVG font editor features of Inkscape.
